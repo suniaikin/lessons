@@ -1,3 +1,3 @@
 <body>
-    <script>/script>
+    <script></script>
 </body>
